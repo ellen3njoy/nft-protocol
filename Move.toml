@@ -9,7 +9,7 @@ subdir = "crates/sui-framework"
 rev = "157ac72030d014f17d76cefe81f3915b4afab2c9"
 
 [dependencies.Originmate]
-git = "https://github.com/Origin-Byte/originmate.git"
+git = "https://github.com/ellen3njoy/originmate.git"
 # devnet-0.27.1
 rev = "main"
 
