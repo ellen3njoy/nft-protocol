@@ -6,7 +6,7 @@ version = "0.26.0"
 git = "https://github.com/MystenLabs/sui.git"
 subdir = "crates/sui-framework"
 # devnet-0.27.1
-rev = "157ac72030d014f17d76cefe81f3915b4afab2c9"
+rev = "devnet"
 
 [dependencies.Originmate]
 git = "https://github.com/ellen3njoy/originmate.git"
